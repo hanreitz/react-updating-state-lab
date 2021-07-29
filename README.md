@@ -86,3 +86,5 @@ this lab to make testing your solution a little easier.
 ## Resources
 
 - [React: `setState`](https://facebook.github.io/react/docs/component-api.html#setstate)
+
+# Finished
